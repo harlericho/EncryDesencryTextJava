@@ -63,8 +63,6 @@ public class Principal extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel3.setText("Encriptacion:");
 
-        txtEncryptacion.setEnabled(false);
-
         txtDesencryptacion.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         txtDesencryptacion.setEnabled(false);
 

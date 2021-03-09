@@ -134,9 +134,6 @@
         <Component class="javax.swing.JTextField" name="txtTexto">
         </Component>
         <Component class="javax.swing.JTextField" name="txtEncryptacion">
-          <Properties>
-            <Property name="enabled" type="boolean" value="false"/>
-          </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="txtDesencryptacion">
           <Properties>
