@@ -4,7 +4,7 @@
 - Programa para encriptar y desencriptar  texto o claves en MD5 BASE 64 realizado en formulario JAVA.
 
 ## _Vista del sistema:_
-![](preview1.PNG)
+![](EncryDesencryTextJava/preview1.PNG)
 
 ## _Realizado por:_
 ![](https://avatars.githubusercontent.com/u/42042270?s=48&v=4)
